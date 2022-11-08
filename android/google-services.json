@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400343281527",
+    "project_id": "kosmos-cac3e",
+    "storage_bucket": "kosmos-cac3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400343281527:android:3837aca7f6dc1b737b7b72",
+        "android_client_info": {
+          "package_name": "com.AKELAPP.kosmos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400343281527-6evgn7s8fg2r1mg4h194t4qcda3hgs4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AKELAPP.kosmos",
+            "certificate_hash": "e62d9767d190460e1cefe1b9a89f80e1a337320e"
+          }
+        },
+        {
+          "client_id": "400343281527-3u8r8cn0h19u5qv6rrrbi8jlva58qtat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFH3TZyl8j61Izj0RxyZFsOqvEMW56Z3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400343281527-3u8r8cn0h19u5qv6rrrbi8jlva58qtat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
